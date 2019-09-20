@@ -1,4 +1,4 @@
-# Montgomery College Computer Science II CMSC 204 
+# Montgomery College Computer Science II CMSC 204 Chat Program Project
 Simple Chat Program for class Project
 
 Creates a local server to process and push chat messages to all user instances.
